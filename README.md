@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DevAzeredo
 - 👀 I’m a Desktop Junior Developer as a main language is Delphi
-- 🌱 I’m currently learning Kotlin for Android
+- 🌱 I’m currently learning PL/pgSQL

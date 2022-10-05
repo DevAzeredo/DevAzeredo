@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @DevAzeredo
-- 👀 I’m a Desktop Junior Developer as a main language is Delphi
-- 🌱 I’m currently learning PL/pgSQL, NextJS and NodeJS.
+- 👀 I’m a Desktop Developer as a main language is Delphi

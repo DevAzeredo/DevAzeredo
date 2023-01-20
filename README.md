@@ -1,15 +1,14 @@
 <h2>👋 Hi, I’m Andre Azeredo from Brazil-SC</h2>
 <h3>👀 I’m a Desktop Developer as a main language is Delphi.</h3>
 <h3>❤️in love with Rust❤️ and just waiting for a oportunity to work with Rust.</h3>
-<h4>Connect with me</h4>
+
 
 <div style="display: inline_block">
-
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevAzeredo&&line_height=20&theme=onedark" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAzeredo&layout=compact&theme=onedark" />
 </div>
 
+<h4>Connect with me</h4>
 <div style="display: inline_block">
   <img align="center" alt="Andre-Linkedin" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" >
 </div>

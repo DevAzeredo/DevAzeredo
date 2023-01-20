@@ -2,9 +2,11 @@
 <h3>👀 I’m a Desktop Developer as a main language is Delphi.</h3>
 <h3>❤️in love with Rust❤️ and just waiting for a oportunity to work with Rust.</h3>
 <h4>Connect with me</h4>
+<a href="https://www.linkedin.com/in/andr%C3%A9-azeredo-625b4321b/"
 <div style="display: inline_block">
-  <img align="center" alt="Andre-Linkedin" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+  <img align="center" alt="Andre-Linkedin" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" >
 </div>
+<a/>
 <h4>My Skills</h4>
 <div style="display: inline_block">
   <img align="center" alt="Andre-Rust" height="54" width="60" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">

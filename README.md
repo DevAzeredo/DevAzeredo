@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I’m Andre Azeredo from Brazil-SC</h2>
 <h3 align="center" >👀 I’m a Desktop Developer as a main language is Delphi.</h3>
-<h3 align="center">❤️Rust is my favorite language❤️</h3>
+<h3 align="center">❤️Rust❤️</h3>
 
 
 <div align="center">

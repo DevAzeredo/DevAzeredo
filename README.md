@@ -8,7 +8,9 @@
 
 <h4 align="center">Connect with me</h4>
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Andre-Linkedin" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" >
+  <a href="https://www.linkedin.com/in/andr%C3%A9azeredo/" target="_blank">
+  <img align="center" alt="Andre-Linkedin" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+</a>
 </div>
 <a/>
 

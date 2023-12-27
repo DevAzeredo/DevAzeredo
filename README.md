@@ -1,6 +1,5 @@
 <h2 align="center">👋 Hi, I’m Andre Azeredo from Brazil-SC</h2>
-<h3 align="center" >👀 I’m a Desktop Developer as a main language is Delphi.</h3>
-<h3 align="center" >:books: I am currently pursuing a postgraduate degree in Software Architecture and Solutions and doing some stuff in Rust</h3>
+<h3 align="center" >:books: I am currently pursuing a postgraduate degree in Software Architecture and Solutions</h3>
 
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevAzeredo&&line_height=20&theme=onedark" />

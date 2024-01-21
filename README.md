@@ -17,6 +17,8 @@
 <h4 align="center" >My Skills</h4>
 <div align="center" style="display: inline_block">
   <img align="center" alt="Andre-Rust" height="54" width="60" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="Andre-Java" height="54" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Andre-Spring" height="54" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Andre-HTML" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="42" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-JS" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">

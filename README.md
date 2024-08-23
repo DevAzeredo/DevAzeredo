@@ -40,6 +40,11 @@
   <img align="center" alt="Andre-PostgresSQL" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
+## Featured Projects
+- [Church Manager](https://github.com/DevAzeredo/ChurchManager-KMP-SpringBoot) - Projeto pra praticar o Jetpack compose + Spring boot.
+- [Auth Service](https://github.com/DevAzeredo/auth_service) - Projeto pra praticar a Rust + Onion Architeture.
+
+
 ## Contact
 
 - **Email**: azeredoandre@proton.me

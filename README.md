@@ -42,7 +42,8 @@
 
 ## Featured Projects
 - [Church Manager](https://github.com/DevAzeredo/ChurchManager-KMP-SpringBoot) - Projeto pra praticar o Jetpack compose + Spring boot.
-- [Auth Service](https://github.com/DevAzeredo/auth_service) - Projeto pra praticar a Rust + Onion Architeture.
+- [Auth Service](https://github.com/DevAzeredo/auth_service) - Projeto pra praticar a Rust + Onion Architeture + conceitos de segurança e autenticação.
+- [Chat criptografado](https://github.com/DevAzeredo/RealTimeCriptoChat) - Projeto pra praticar a Spring boot + Angular + conceitos de criptografia.
 
 
 ## Contact

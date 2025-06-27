@@ -1,7 +1,22 @@
-# André Azeredo
-<h2 align="center">👋 Hello! I'm André, a software developer from Brazil, specializing in Kotlin and Android development.</h2>
+# 👋 Olá! Eu sou o André Azeredo
 
-About Me
-<h4 align="center">:books: I have 3 years of professional experience in maintaining desktop and mobile applications using Delphi and Java, with a strong focus on problem-solving and efficient development. I recently completed a postgraduate degree in Software Architecture and Solutions, and I'm now specializing in Kotlin and Android development to pursue a career in mobile app development.</h4> <div align="center"> <a href="https://github.com/DevAzeredo"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevAzeredo&line_height=20&theme=onedark" /> </a> <a href="https://github.com/DevAzeredo"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAzeredo&layout=compact&theme=onedark" /> </a> </div>
-My Skills
-<h4 align="center">Languages & Technologies</h4> <div align="center" style="display: inline_block"> <h5>Programming Languages</h5> <img align="center" alt="Andre-Kotlin" height="64" width="70" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg"> <img align="center" alt="Andre-Java" height="54" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> <img align="center" alt="Andre-Rust" height="54" width="60" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"> <h5>Frameworks</h5> <img align="center" alt="Andre-Android" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg"> <img align="center" alt="Andre-Compose" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg"> <img align="center" alt="Andre-Spring" height="54" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> <img align="center" alt="Andre-Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"> <h5>Cloud</h5> <img align="center" alt="Andre-Azure" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"> <img align="center" alt="Andre-GCP" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"> <img align="center" alt="Andre-AWS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> <h5>Databases</h5> <img align="center" alt="Andre-MongoDB" height="46" width="46" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"> <img align="center" alt="Andre-PostgresSQL" height="42" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> </div>
+🎓 Pós-graduado em Arquitetura de Software e Soluções  
+---
+
+## 🧠 Conhecimentos e Habilidades
+
+**Linguagens & Plataformas:**
+
+- Java (aplicações Android e backend)
+- Delphi (sistemas desktop empresariais)
+- TypeScript com Angular (frontend) e NestJS (backend)
+- Kotlin Compose Multiplatform
+- SQL, PostgreSQL, MySQL, MongoDB
+- Docker e Git
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/andreazeredo)
+- [GitHub](https://github.com/DevAzeredo)
+

@@ -23,4 +23,3 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/andreazeredo)
-- [GitHub](https://github.com/DevAzeredo)

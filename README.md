@@ -21,4 +21,4 @@
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/andreazeredo)
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9azeredo/)
